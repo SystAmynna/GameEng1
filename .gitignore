@@ -1,11 +1,18 @@
 # Ignore everything
-*
+.gradle/**
+.idea/**
+build/**
+gradle/**
+out/**
+src/test/**
+gradlew.bat
+gradlew
 
-# Except these files and directories
+# But not these files
+!.gitignore
 !build.gradle
 !settings.gradle
-!.gitignore
+!src/main/**
 
-# Ignore everything else in src except src/main
-src/*
-!src/main/
+
+
