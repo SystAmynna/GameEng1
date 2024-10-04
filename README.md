@@ -15,12 +15,12 @@
 - ❎: Menu pause (ESC) 
   
 ## Contrôles
-**Z Q S D** ou **➡️⬅️⬆️⬇️** pour se déplacer
-**ESC** ouvrir le menu
-**F11** activer / désactiver le plein écran
-**F3** activer / désactiver le menu débug
+**Z Q S D** ou **➡️⬅️⬆️⬇️** pour se déplacer.  
+**ESC** ouvrir le menu.  
+**F11** activer / désactiver le plein écran.  
+**F3** activer / désactiver le menu débug.  
   
 ## Notes:
 Ce projet est un ancien projet, il ne sera probablement plus mis à jour. 
-J'ai rapidement était limité par Swing et j'ai fais face à un bug de swing que je n'expliquais pas (le fullscreen faisait lag sur un de mes pc mais pas l'autre, alors que le menu debug me confirmait le maintient de 60fps).
+J'ai rapidement était limité par Swing et j'ai fais face à un bug (de swing) que je n'expliquais pas (le fullscreen faisait lag sur un de mes pc mais pas l'autre, alors que le menu debug me confirmait le maintient de 60fps).
 Au moment où j'écris ceci, je suis en train d'apprendre OpenGL (par le biais de LWJGL) afin de monter moi même mon moteur graphique puis mon moteur de jeu, à des fins éducatives.
