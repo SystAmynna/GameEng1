@@ -1,12 +1,14 @@
 # Ignore everything
 .gradle/**
 .idea/**
+.idea/.gitignore
 build/**
 gradle/**
 out/**
 src/test/**
 gradlew.bat
 gradlew
+
 
 # But not these files
 !.gitignore
